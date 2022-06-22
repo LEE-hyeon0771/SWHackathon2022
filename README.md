@@ -9,8 +9,8 @@
 팀원 소개
 
 - 이현
-- BackEnd Developer - 이은주(@silver-eunjoo)
 - FrondEnd Developer - 한재혁(@JaeHyeok Han)
+- BackEnd Developer - 이은주(@silver-eunjoo)
 - BackEnd Developer - 양지후(@zihooy)
 - Designer, UX/UI, marketer - 조하연(@loosainfjn)
 
