@@ -1,6 +1,6 @@
 # SWHackathon2022
 
-<b>팀 프로젝트 명 - 약속 (medicine map)</b>
+<b>팀 프로젝트 명 - 약속 (inside the medicine map)</b>
 
 <b>팀명 - 약도 (with medicine)</b>
 
