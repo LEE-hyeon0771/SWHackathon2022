@@ -21,13 +21,46 @@ public class Pharmacy {
     public Pharmacy() {
     }
 
-    public void setLat(Float lat) {
-        this.lat = lat;
+    public Long getId() {
+        return id;
     }
 
-    public void setLon(Float lon) {
+    public String getName() {
+        return name;
+    }
+
+    public String getPhone() {
+        return phone;
+    }
+
+    public String getAddressName() {
+        return addressName;
+    }
+
+    public String getRoadAddressName() {
+        return roadAddressName;
+    }
+
+    public List<PharMedicine> getPharMedicines() {
+        return pharMedicines;
+    }
+
+    public void setCoordinates(Float lat, Float lon) {
+        this.lat = lat;
         this.lon = lon;
     }
 
-
+    @Override
+    public String toString() {
+        return "Pharmacy{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", phone='" + phone + '\'' +
+                ", addressName='" + addressName + '\'' +
+                ", roadAddressName='" + roadAddressName + '\'' +
+                ", lat=" + lat +
+                ", lon=" + lon +
+                ", pharMedicines=" + pharMedicines +
+                '}';
+    }
 }
