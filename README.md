@@ -11,7 +11,7 @@
 - 이현
 - 이은주
 - 한재혁
-- BackEnd Developer - 양지후(zihooy)
+- BackEnd Developer - 양지후(@zihooy)
 - Designer, UX/UI, marketer - 조하연(@loosainfjn)
 
 프로젝트 배경/목표 -
