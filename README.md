@@ -8,7 +8,7 @@
 
 팀원 소개
 
-- 이현
+- FrontEnd Developer - 이현(@LEE-Hyeon0771)
 - FrondEnd Developer - 한재혁(@JaeHyeok Han)
 - BackEnd Developer - 이은주(@silver-eunjoo)
 - BackEnd Developer - 양지후(@zihooy)
