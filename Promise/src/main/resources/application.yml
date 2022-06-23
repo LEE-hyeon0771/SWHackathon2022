@@ -1,0 +1,20 @@
+spring:
+  datasource:
+    url: jdbc:Mysql://118.67.128.121:3306/Promise
+    username: hackathon
+    password: a12
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    properties:
+      hibernate:
+        format_sql: true
+        default_batch_fetch_size: 100
+  h2:
+    console:
+      enabled: false
+logging:
+  level:
+    org.hibernate.SQL: debug
+    org.hibernate.type: trace
