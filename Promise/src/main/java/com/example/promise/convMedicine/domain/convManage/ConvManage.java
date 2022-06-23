@@ -21,10 +21,7 @@ public class ConvManage {
     @GeneratedValue
     private Long id;
 
-    private String name;
-    private String type;
-    private String detailType;
-    private String code;
+    private Long stockNum;
 
     @ManyToOne(fetch = FetchType.LAZY)
     private ConvMedicine convMedicine;
