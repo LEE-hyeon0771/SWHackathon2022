@@ -1,66 +1,32 @@
 package com.jetbrains.springdatajpaapp;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
+import javax.persistence.*;
 import java.util.List;
+import java.util.Set;
 
 @Entity
+@Table(schema = "Promise", name = "Pharmacy")
 public class Pharmacy {
     @Id
     @GeneratedValue
-    private Long id;
+    private int id;
+    private int category;
     private String name;
     private String phone;
     private String addressName;
     private String roadAddressName;
     private Float lat;
     private Float lon;
-    private List<PharMedicine> pharMedicines;
 
-    public Pharmacy() {
-    }
+    @OneToOne
+    @JoinColumn(name = "id")
+    private Time time;
 
-    public Long getId() {
-        return id;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public String getPhone() {
-        return phone;
-    }
-
-    public String getAddressName() {
-        return addressName;
-    }
-
-    public String getRoadAddressName() {
-        return roadAddressName;
-    }
-
-    public List<PharMedicine> getPharMedicines() {
-        return pharMedicines;
-    }
-
-    public void setCoordinates(Float lat, Float lon) {
-        this.lat = lat;
-        this.lon = lon;
-    }
-
-    @Override
-    public String toString() {
-        return "Pharmacy{" +
-                "id=" + id +
-                ", name='" + name + '\'' +
-                ", phone='" + phone + '\'' +
-                ", addressName='" + addressName + '\'' +
-                ", roadAddressName='" + roadAddressName + '\'' +
-                ", lat=" + lat +
-                ", lon=" + lon +
-                ", pharMedicines=" + pharMedicines +
-                '}';
-    }
+    @ManyToMany
+    @JoinTable(
+            name = "PharManage",
+            joinColumns = @JoinColumn(name = "phar"),
+            inverseJoinColumns = @JoinColumn(name = "pharMedicine")
+    )
+    Set<PharMedicine> managedPharMedicines;
 }
