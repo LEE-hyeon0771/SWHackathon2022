@@ -32,7 +32,7 @@
 
 참가자 코멘트
 
-- 이현 (#LEE-Hyeon0771)
+- 이현   (@LEE-Hyeon0771)
 - 한재혁 (@JaeHyeok Han)
 - 이은주 (@silver-eunjoo)
 - 양지후 (@zihooy)
