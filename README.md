@@ -33,11 +33,13 @@
 | DB              | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=black"> |
 
 
-## 활용/참고 정보
+## 활용/참고 정보 
+https://www.notion.so/SW-03111cfadd5b46c8a03f89482ed7755b
+https://www.notion.so/150907e7e59049598f951c939b2a7414
 
 ## 테스트 환경 
 
-## 영상 유튜브 링크 
+## 영상 유튜브 링크 https://youtu.be/2C4dUHSfGIA
 
 ## 참가자 코멘트
 
