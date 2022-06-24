@@ -34,8 +34,9 @@
 
 
 ## 활용/참고 정보 
-https://www.notion.so/SW-03111cfadd5b46c8a03f89482ed7755b
-https://www.notion.so/150907e7e59049598f951c939b2a7414
+1. https://www.notion.so/SW-03111cfadd5b46c8a03f89482ed7755b
+
+2. https://www.notion.so/150907e7e59049598f951c939b2a7414
 
 ## 테스트 환경 
 
