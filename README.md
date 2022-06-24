@@ -20,7 +20,8 @@
 
 ## 동작 방식(프로세스)
 
-추후 FlowChart 삽입 예정
+![image](https://user-images.githubusercontent.com/29768779/175483186-b67060af-bb02-4971-907c-fe1d7033e261.png)
+
 
 
 ## 기술스택
@@ -34,6 +35,7 @@
 
 
 ## 활용/참고 정보 
+
 1. https://www.notion.so/SW-03111cfadd5b46c8a03f89482ed7755b
 
 2. https://www.notion.so/150907e7e59049598f951c939b2a7414
@@ -48,4 +50,4 @@
 - 한재혁 (@JaeHyeok Han)
 - 이은주 (@silver-eunjoo)
 - 양지후 (@zihooy)
-- 조하연 (@loosainfjn)
+- 조하연 (@loosainfjn) : 저희 약도 팀은 보물지도였습니다. 주어진 환경에서 마지막 1분까지 최선을 다한 저희의 약속에 축배를!
