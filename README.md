@@ -8,7 +8,7 @@
 
 ## 팀원 소개
 
-| ![](https://github.com/LEE-Hyeon0771.png) | ![](https://github.com/JaeHyeokHan.png) | ![](https://github.com/silver-eunjoo.png) | ![](https://github.com/zihooy.png) | ![](https://github.com/loosainfjn.png) |
+| ![](https://github.com/LEE-Hyeon0771.png) | ![]([https://github.com/JaeHyeokHan.png](https://velog.velcdn.com/images/98soonrok/post/21785c51-a294-4309-8adb-e8d2e65edd0b/image.png)) | ![](https://github.com/silver-eunjoo.png) | ![](https://github.com/zihooy.png) | ![](https://github.com/loosainfjn.png) |
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :-----------------------------------: | :------------------------------------: |
 |             **이현<br>(FrontEnd Developer)**              |             **한재혁<br>(FrontEnd Developer)**              |             **이은주<br>(BackEnd Developer)**              |            **양지후<br>(BackEnd Developer)**            |            **조하연<br>(Designer, UX/UI, marketer)**             |
 
