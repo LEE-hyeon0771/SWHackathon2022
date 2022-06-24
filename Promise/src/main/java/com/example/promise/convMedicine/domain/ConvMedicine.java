@@ -15,8 +15,6 @@ import java.util.List;
 @Getter
 @NoArgsConstructor
 @AllArgsConstructor
-@SQLDelete(sql = "UPDATE convMedicine SET deleted = true WHERE id = ?")
-@Where(clause = "deleted = false")
 public class ConvMedicine {
     @Id
     @GeneratedValue

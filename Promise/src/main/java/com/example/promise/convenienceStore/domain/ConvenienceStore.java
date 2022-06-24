@@ -1,6 +1,8 @@
 package com.example.promise.convenienceStore.domain;
 
+import com.example.promise.convMedicine.application.dto.ConvMedicineDto;
 import com.example.promise.convMedicine.domain.convManage.ConvManage;
+import com.example.promise.convenienceStore.application.dto.ConvenienceStoreDto;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -11,13 +13,12 @@ import javax.persistence.*;
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
 
 @Entity
 @Getter
 @NoArgsConstructor
 @AllArgsConstructor
-@SQLDelete(sql = "UPDATE convenienceStore SET deleted = true WHERE id = ?")
-@Where(clause = "deleted = false")
 public class ConvenienceStore {
     @Id
     @GeneratedValue
@@ -31,4 +32,9 @@ public class ConvenienceStore {
     private BigDecimal lon;
     @OneToMany(mappedBy = "convenienceStore")
     private List<ConvManage> convManages = new ArrayList<>();
+
+    public ConvenienceStoreDto toCovenienceStoreDto() {
+        return new ConvenienceStoreDto(this.id, this.category, this.name, this,phone, this.addressName, this.roadAddressName, this.lat, this.lon);
+
+    }
 }
