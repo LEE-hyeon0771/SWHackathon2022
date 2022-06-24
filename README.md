@@ -34,7 +34,7 @@
 | DB              | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=black"> |
 
 
-## 활용/참고 정보 
+## 활용 / 참고 정보 
 
 1. https://www.notion.so/SW-03111cfadd5b46c8a03f89482ed7755b
 
