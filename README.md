@@ -1,7 +1,7 @@
 # SWHackathon2022
-### 팀 프로젝트 명 : 약속 (inside the medicine map)
+### 팀 프로젝트 명 : 약속 (inside the medicine map) 💊🔍
 
-### 팀명 : 약도 (with medicine)
+### 팀명 : 약도 (with medicine) 🗺
 
 ### 팀 소개
 약(Medicine) 속으로 가는 약도(Map) 을 만드는 전국구최강연합 약도팀입니다.
@@ -43,6 +43,9 @@
 ## 테스트 환경 
 
 ## 영상 유튜브 링크 https://youtu.be/2C4dUHSfGIA
+
+![image](https://user-images.githubusercontent.com/29768779/175484368-758bd32e-6917-401a-bfd8-92980f924af4.png)
+
 
 ## 참가자 코멘트
 
