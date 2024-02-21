@@ -10,7 +10,7 @@
 
 | ![](https://github.com/LEE-Hyeon0771.png) | ![](https://github.com/JaeHyeokHan.png) | ![](https://github.com/silver-eunjoo.png) | ![](https://github.com/zihooy.png) | ![](https://github.com/loosainfjn.png) |
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :-----------------------------------: | :------------------------------------: |
-|             **이현<br>(FrontEnd Developer)<br>연세대학교 미래캠퍼스**              |             **한재혁<br>(FrontEnd Developer)<br>한밭대학교**              |             **이은주<br>(BackEnd Developer)<br>경북대학교**              |            **양지후<br>(BackEnd Developer)<br>한동대학교**            |            **조하연<br>(Designer, UX/UI, marketer)<br>광운대학교**             |
+|             **이현<br>(FrontEnd Developer)<br>연세대학교**              |             **한재혁<br>(FrontEnd Developer)<br>한밭대학교**              |             **이은주<br>(BackEnd Developer)<br>경북대학교**              |            **양지후<br>(BackEnd Developer)<br>한동대학교**            |            **조하연<br>(Designer, UX/UI, marketer)<br>광운대학교**             |
 
 ## 프로젝트 배경/목표 
 
